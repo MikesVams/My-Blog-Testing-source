@@ -1,0 +1,5 @@
+baseURL = 'https://github.com/MikesVams/My-Blog-Mini-Course'
+languageCode = 'en-us'
+title = 'My New Hugo Site'
+enableRobotsTXT = true
+
